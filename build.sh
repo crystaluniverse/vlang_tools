@@ -1,12 +1,12 @@
 rm -f /usr/local/bin/publishtools
 
-set -ex
+set -e
 cd publishtools
 
 
 
-#cp publishermod/index_root.html .
-#cp publishermod/errors.html .
+#cp publisher_core/index_root.html .
+#cp publisher_core/errors.html .
 
 sudo rm -f /usr/local/bin/publishtools
 

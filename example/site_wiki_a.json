@@ -1,0 +1,14 @@
+[
+	{
+		"name": "awiki",
+		"url": "",
+		"path_fs": "wiki_site_a",
+		"branch": "",
+		"pull": true,
+		"reset": true,
+		"domains": [
+			"test.threefold.org"
+		],
+		"descr": ""
+	}
+]
